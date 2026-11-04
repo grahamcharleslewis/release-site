@@ -1,0 +1,18 @@
+{
+  "site_title": "App releases",
+  "repos": [
+    {
+      "repo": "govuk-once/govuk-mobile-android-app",
+      "platform": "Android"
+    },
+    {
+      "repo": "govuk-once/govuk-mobile-ios-app",
+      "platform": "iPhone"
+    }
+  ],
+  "roadmap": {
+    "repo": "grahamcharleslewis/release-roadmap",
+    "ref": "main",
+    "path": "releases"
+  }
+}

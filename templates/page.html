@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="site-nav">
+{{nav}}
+  </nav>
+  <main class="page">
+{{content}}
+  </main>
+  <footer class="page-footer">
+    <p>Last updated <time datetime="{{generated_at_iso}}">{{generated_at}}</time>. {{footer_note}}</p>
+  </footer>
+</body>
+</html>
