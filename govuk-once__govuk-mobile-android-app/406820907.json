@@ -1,0 +1,11 @@
+{
+  "id": 406820907,
+  "repo": "govuk-once/govuk-mobile-android-app",
+  "tag": "v1.9",
+  "name": "v1.9 DVLA Private Beta",
+  "published_at": "2026-10-09T14:38:54Z",
+  "prerelease": true,
+  "html_url": "https://github.com/govuk-once/govuk-mobile-android-app/releases/tag/v1.9",
+  "body": "## What's Changed\r\n* GOVUKAPP-4087 Update DVLA private beta with main by @lamprosgk in https://github.com/govuk-once/govuk-mobile-android-app/pull/890\r\n\r\n\r\n**Full Changelog**: https://github.com/govuk-once/govuk-mobile-android-app/compare/v1.7...v1.9",
+  "body_html": "<h2>What's Changed</h2>\n<ul>\n<li>GOVUKAPP-4087 Update DVLA private beta with main by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/lamprosgk/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/lamprosgk\">@lamprosgk</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"5759662207\" data-permission-text=\"Title is private\" data-url=\"https://github.com/govuk-once/govuk-mobile-android-app/issues/890\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/govuk-once/govuk-mobile-android-app/pull/890/hovercard\" href=\"https://github.com/govuk-once/govuk-mobile-android-app/pull/890\">#890</a></li>\n</ul>\n<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/govuk-once/govuk-mobile-android-app/compare/v1.7...v1.9\"><tt>v1.7...v1.9</tt></a></p>"
+}

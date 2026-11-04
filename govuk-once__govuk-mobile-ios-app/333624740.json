@@ -1,0 +1,11 @@
+{
+  "id": 333624740,
+  "repo": "govuk-once/govuk-mobile-ios-app",
+  "tag": "1.2.3",
+  "name": "1.2.3",
+  "published_at": "2026-06-10T09:19:32Z",
+  "prerelease": false,
+  "html_url": "https://github.com/govuk-once/govuk-mobile-ios-app/releases/tag/1.2.3",
+  "body": "[GOVUKAPP-3562](https://govukverify.atlassian.net/browse/GOVUKAPP-3562) Link Notification ID to OneSignal\r\n\r\n**Full Changelog**: https://github.com/govuk-once/govuk-mobile-ios-app/compare/1.2.2...1.2.3\r\n",
+  "body_html": "<p><a href=\"https://govukverify.atlassian.net/browse/GOVUKAPP-3562\" rel=\"nofollow\">GOVUKAPP-3562</a> Link Notification ID to OneSignal</p>\n<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/govuk-once/govuk-mobile-ios-app/compare/1.2.2...1.2.3\"><tt>1.2.2...1.2.3</tt></a></p>"
+}

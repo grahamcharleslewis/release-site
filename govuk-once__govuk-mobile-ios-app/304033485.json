@@ -1,0 +1,11 @@
+{
+  "id": 304033485,
+  "repo": "govuk-once/govuk-mobile-ios-app",
+  "tag": "1.1.5",
+  "name": "1.1.5",
+  "published_at": "2026-04-01T10:20:40Z",
+  "prerelease": false,
+  "html_url": "https://github.com/govuk-once/govuk-mobile-ios-app/releases/tag/1.1.5",
+  "body": "* Fix chat links not opening changes by @1pretz1 \r\n\r\n**Full Changelog**: https://github.com/govuk-once/govuk-mobile-ios-app/compare/1.1.4...1.1.5",
+  "body_html": "<ul>\n<li>Fix chat links not opening changes by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/1pretz1/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/1pretz1\">@1pretz1</a></li>\n</ul>\n<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/govuk-once/govuk-mobile-ios-app/compare/1.1.4...1.1.5\"><tt>1.1.4...1.1.5</tt></a></p>"
+}

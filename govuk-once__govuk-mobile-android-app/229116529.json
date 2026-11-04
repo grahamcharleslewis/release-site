@@ -1,0 +1,11 @@
+{
+  "id": 229116529,
+  "repo": "govuk-once/govuk-mobile-android-app",
+  "tag": "v1.0.1",
+  "name": "v1.0.1",
+  "published_at": "2025-07-03T09:14:29Z",
+  "prerelease": false,
+  "html_url": "https://github.com/govuk-once/govuk-mobile-android-app/releases/tag/v1.0.1",
+  "body": "## What's Changed\r\n* Bump version, fix for blank refresh token by @davidc-gds in https://github.com/alphagov/govuk-mobile-android-app/pull/341\r\n* GOVUKAPP-2070 App icon update by @TimGJD in https://github.com/alphagov/govuk-mobile-android-app/pull/344\r\n\r\n\r\n**Full Changelog**: https://github.com/alphagov/govuk-mobile-android-app/compare/v1.0.0...v1.0.1",
+  "body_html": "<h2>What's Changed</h2>\n<ul>\n<li>Bump version, fix for blank refresh token by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/davidc-gds/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/davidc-gds\">@davidc-gds</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3187977995\" data-permission-text=\"Title is private\" data-url=\"https://github.com/govuk-once/govuk-mobile-android-app/issues/341\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/govuk-once/govuk-mobile-android-app/pull/341/hovercard\" href=\"https://github.com/govuk-once/govuk-mobile-android-app/pull/341\">#341</a></li>\n<li>GOVUKAPP-2070 App icon update by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/TimGJD/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/TimGJD\">@TimGJD</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3192349583\" data-permission-text=\"Title is private\" data-url=\"https://github.com/govuk-once/govuk-mobile-android-app/issues/344\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/govuk-once/govuk-mobile-android-app/pull/344/hovercard\" href=\"https://github.com/govuk-once/govuk-mobile-android-app/pull/344\">#344</a></li>\n</ul>\n<p><strong>Full Changelog</strong>: <a class=\"commit-link\" href=\"https://github.com/govuk-once/govuk-mobile-android-app/compare/v1.0.0...v1.0.1\"><tt>v1.0.0...v1.0.1</tt></a></p>"
+}
