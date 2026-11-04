@@ -1,0 +1,19 @@
+{
+  "repo": "grahamcharleslewis/release-roadmap",
+  "ref": "main",
+  "path": "releases",
+  "sources": [
+    [
+      "1.12.1.md",
+      "---\ntitle: Version 1.12.1\nplatform: Android\ntarget: January 2027\nstatus: Planned\n---\n\n## What's planned\n\n- Fixes for issues found after the 1.12 release\n"
+    ],
+    [
+      "1.12.md",
+      "---\ntitle: Version 1.12\nplatform: Android, iPhone\ntarget: December 2026\nstatus: In progress\n---\n\n## What's planned\n\n- Save items to read later, even when you're offline\n- Dark mode that follows your device settings\n- Faster start-up\n\n## Android only\n\n- Support for themed app icons\n\n## iPhone only\n\n- Home screen widget showing your saved items\n\n## Details\n\nSaved items are stored on your device. You can remove them at any time from\nthe Saved tab.\n"
+    ],
+    [
+      "1.13.md",
+      "---\ntitle: Version 1.13\nplatform: Android, iPhone\ntarget: Early 2027\nstatus: Planned\n---\n\n## What's planned\n\n- Sign in with a passkey\n- Choose which topics appear on your home screen\n"
+    ]
+  ]
+}
